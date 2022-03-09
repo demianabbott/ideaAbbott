@@ -117,9 +117,6 @@ button {
     padding: 1rem;
     text-align: center;
     border-radius: 10px;
-}
-
-.section__card i {
     font-size: 30px;
     color: black;
     margin-bottom: 1rem;
@@ -221,7 +218,8 @@ table {
     padding: 2rem;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(56, 182, 52);
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }
 
 .footer__elnegocio i {
